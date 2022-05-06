@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mbenguerraiche
-- 👀 I’m a web developer and I love PHP
+I’m @mbenguerraiche. I’m a web developer and I love PHP
 
 <!---
 mbenguerraiche/mbenguerraiche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
